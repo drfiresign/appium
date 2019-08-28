@@ -46,7 +46,7 @@
     "appium-base-driver": "4.x",
     "appium-espresso-driver": "^1.0.0",
     "appium-fake-driver": "^0.x",
-    "appium-ios-driver": "4.x",
+    "appium-ios-driver": "^4.4.0",
     "appium-mac-driver": "1.x",
     "appium-support": "2.x",
     "appium-tizen-driver": "^1.1.1-beta.4",
